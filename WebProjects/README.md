@@ -23,4 +23,4 @@ This project is created during my Internship period. This is implemented only us
 
 ## Career Recommendation System
 
-- [Career Recommendation (Mini AI Logic)]
+- [Career Recommendation (Mini AI Logic)](https://github.com/RoshanR-Git/Career-Recommendation-System)
