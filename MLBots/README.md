@@ -35,7 +35,7 @@ A machine learning-powered application that predicts the **risk of diabetes** ba
 
 ---
 
-## 💳 Online Payment Fraud Detection Bot 🤖
+## 💳 Online Payment Fraud Detection Web Interface 
 - [Online Payment Fraud Detection Bot](https://github.com/RoshanR-Git/Financial-Fraud-Detection-AI-)
 
 **Description:**  
