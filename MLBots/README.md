@@ -32,3 +32,29 @@ A machine learning-powered application that predicts the **risk of diabetes** ba
 4. Simple and **interactive interface** for users  
 
 **Tech Stack:** Python, scikit-learn, pandas, numpy, matplotlib, Streamlit  
+
+---
+
+## 💳 Online Payment Fraud Detection Bot 🤖
+- [Online Payment Fraud Detection Bot](https://github.com/RoshanR-Git/Online-Payment-Fraud-Detection)
+
+**Description:**  
+A **Streamlit-based** machine learning web application that detects fraudulent online payment transactions.  
+The model analyzes transaction details such as type, amount, balance changes, and flags potentially **fraudulent activities** using a trained **LightGBM model**.
+
+### 🔑 Key Features:
+1. Built with **Streamlit** for real-time fraud detection  
+2. Uses a **LightGBM model** for high-accuracy predictions  
+3. Takes multiple **transaction parameters** as input  
+4. Displays **prediction results and confidence score**  
+5. Simple UI for end-users to test transactions interactively  
+
+**Tech Stack:** Python, LightGBM, pandas, joblib, Streamlit  
+
+---
+
+## 🧠 Summary
+Each project in this repository showcases the application of machine learning in different domains — from healthcare to finance and well-being.  
+These bots demonstrate how ML models can power interactive, real-world solutions using simple, intuitive interfaces built with Streamlit.
+
+---
