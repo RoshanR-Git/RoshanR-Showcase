@@ -20,3 +20,7 @@
 - [🚝Tourist Guidoo🚌](https://github.com/RoshanR-Git/Tourist-Guidoo-)
 
 This project is created during my Internship period. This is implemented only using HTML,CSS,Javascript...
+
+## Career Recommendation System
+
+- [Career Recommendation (Mini AI Logic)]
