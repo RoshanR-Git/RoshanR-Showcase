@@ -37,6 +37,7 @@ A machine learning-powered application that predicts the **risk of diabetes** ba
 
 ## 💳 Online Payment Fraud Detection Bot 🤖
 - [Online Payment Fraud Detection Bot](https://github.com/RoshanR-Git/Financial-Fraud-Detection-AI-)
+
 **Description:**  
 A **Streamlit-based** machine learning web application that detects fraudulent online payment transactions.  
 The model analyzes transaction details such as type, amount, balance changes, and flags potentially **fraudulent activities** using a trained **LightGBM model**.
